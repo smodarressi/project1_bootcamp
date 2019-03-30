@@ -29,3 +29,5 @@
 67,Three-year repayment rate for completers,repayment,3_yr_repayment.completers_rate,float,COMPL_RPY_3YR_RT,,,NSLDS,
 68,Seven-year repayment rate for completers,repayment,7_yr_repayment.completers_rate,float,COMPL_RPY_7YR_RT,,,NSLDS,
 69,Five-year repayment rate for completers,repayment,5_yr_repayment.completers_rate,float,COMPL_RPY_5YR_RT,,,NSLDS,
+14,Mean earnings of students working and not enrolled 7 years after entry,earnings,7_yrs_after_entry.mean_earnings,float,MN_EARN_WNE_P7,,,Treasury,
+15,Standard deviation of earnings of students working and not enrolled 7 years after entry,earnings,7_yrs_after_entry.std_dev,float,SD_EARN_WNE_P7,,,Treasury,
